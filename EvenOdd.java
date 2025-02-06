@@ -13,7 +13,7 @@ public class EvenOdd {
 //             System.out.println(num + " is odd");
 //     }
 // }
-// using temporary operator
+// using ternanry operator
         String evenOdd = (num % 2 == 0) ? "even" : "odd";
         
         System.out.println(num + " is " + evenOdd);
